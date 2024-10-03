@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    padding-left: 18px;
+}
+
+.container {
+    border: 2px solid black;
+    width: 178px;
+    background-color:blue;
+}
+#result {
+    text-align: right;
+    height: 30px;
+    
+}
+
+button {
+    width: 39px;
+    height: 30px;
+    margin: 1px;
+    background-color: yellow;
+}
+
+.btn {
+    width: 39px;
+}
+
+.butn {
+    width: 84px;
+}
